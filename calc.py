@@ -4,3 +4,4 @@ def sum(a,b):
 def sub(a,b):
   print(a-b)
   return (a-b)
+  print("Hello world")
